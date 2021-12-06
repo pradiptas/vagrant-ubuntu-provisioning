@@ -15,4 +15,5 @@ sleep 120
 sudo usermod -aG docker $USER
 #install pip
 yes | sudo apt install python-pip
+#install jq
 yes | sudo apt-get install jq
