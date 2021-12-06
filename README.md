@@ -10,6 +10,6 @@ Assumption: This instruction is applicable for MacOS only
 - install vagrant(`brew install vagrant`)
 - install Virtual Box(https://www.virtualbox.org/wiki/Downloads)
 - clone the repo
-- cd into the directory
+- `cd` into the directory
 - run `vagrant up` 
 - run `vagrant ssh`
