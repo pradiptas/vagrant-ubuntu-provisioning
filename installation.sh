@@ -20,3 +20,5 @@ yes | sudo apt install python-pip
 yesy | sudo apt-get install nano
 #install jq
 yes | sudo apt-get install jq
+#reboot vm
+sudo reboot
