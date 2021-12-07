@@ -1,7 +1,7 @@
 Assumption: This instruction is applicable for MacOS only
 # vagrant-ubuntu-provisioning
 - Provision a Ubuntu 18.04 LTS VM 
-- Pre-install Docker Engine, pip and jq
+- Pre-install Docker Engine, pip, nano and jq
 - Add user to docker group
 
 # Instruction for Vagrant 
