@@ -17,7 +17,7 @@ sudo usermod -aG docker $USER
 #install pip
 yes | sudo apt install python-pip
 #install nano
-yesy | sudo apt-get install nano
+yes | sudo apt-get install nano
 #install jq
 yes | sudo apt-get install jq
 #reboot vm
