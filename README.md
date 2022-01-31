@@ -13,3 +13,4 @@ Assumption: This instruction is applicable for MacOS only
 - `cd` into the directory
 - run `vagrant up` 
 - run `vagrant ssh`
+- run `vagrant destroy` to terminate the vm
