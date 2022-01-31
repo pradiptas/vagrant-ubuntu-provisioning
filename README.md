@@ -14,3 +14,6 @@ Assumption: This instruction is applicable for MacOS only
 - run `vagrant up` 
 - run `vagrant ssh`
 - run `vagrant destroy` to terminate the vm
+
+# Detailed Blog
+https://medium.com/@pradipta.sanyal/provision-your-local-development-environment-with-hashicorp-vagrant-7c7a0770c92c
